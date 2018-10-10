@@ -15,6 +15,9 @@ Harus install [ngSanitize](https://docs.angularjs.org/api/ngSanitize) dan [Selec
 ```
 $ npm install angular-sanitize --save
 ```
+```
+<script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
+```
 ### Selectize
 ```
 $ bower install selectize#~0.8.5 --save
