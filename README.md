@@ -9,7 +9,7 @@ AngularJS-native version of [Select2](http://ivaynberg.github.io/select2/) and [
 - [Documentation](https://github.com/angular-ui/ui-select/wiki)
 
 ## Dependencies
-Harus install [ngSanitize] (https://docs.angularjs.org/api/ngSanitize) dan [Selectize](http://brianreavis.github.io/selectize.js/).
+Harus install [ngSanitize](https://docs.angularjs.org/api/ngSanitize) dan [Selectize](http://brianreavis.github.io/selectize.js/).
 
 ### ngSanitize
 ```
