@@ -1,5 +1,13 @@
 # AngularJS ui-select [![Build Status](https://travis-ci.org/angular-ui/ui-select.svg?branch=master)](https://travis-ci.org/angular-ui/ui-select) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/angular-ui/ui-select?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+AngularJS-native version of [Select2](http://ivaynberg.github.io/select2/) and [Selectize](http://brianreavis.github.io/selectize.js/). [http://angular-ui.github.io/ui-select/](http://angular-ui.github.io/ui-select/)
+
+[Getting Started](https://github.com/angular-ui/ui-select/wiki/Getting-Started) 
+
+- [Examples](http://angular-ui.github.io/ui-select/#examples)
+- [Examples Source](./docs/examples)
+- [Documentation](https://github.com/angular-ui/ui-select/wiki)
+
 ## Dependencies
 Harus install [ngSanitize] (https://docs.angularjs.org/api/ngSanitize) dan [Selectize](http://brianreavis.github.io/selectize.js/).
 
@@ -11,15 +19,9 @@ $ npm install angular-sanitize --save
 ```
 $ bower install selectize#~0.8.5 --save
 ```
-
-
-AngularJS-native version of [Select2](http://ivaynberg.github.io/select2/) and [Selectize](http://brianreavis.github.io/selectize.js/). [http://angular-ui.github.io/ui-select/](http://angular-ui.github.io/ui-select/)
-
-[Getting Started](https://github.com/angular-ui/ui-select/wiki/Getting-Started) 
-
-- [Examples](http://angular-ui.github.io/ui-select/#examples)
-- [Examples Source](./docs/examples)
-- [Documentation](https://github.com/angular-ui/ui-select/wiki)
+```
+<link rel="stylesheet" href="bower_components/selectize/dist/css/selectize.css">
+```
 
 ## Latest Changes
 
@@ -44,9 +46,6 @@ $ npm install ui-select
 ### bower
 ```
 $ bower install angular-ui-select
-```
-```
-<link rel="stylesheet" href="bower_components/selectize/dist/css/selectize.css">
 ```
 
 ## Development
